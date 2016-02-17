@@ -1,0 +1,15 @@
+defaults write com.apple.finder AppleShowAllFiles FALSE
+defaults write com.apple.finder AppleShowAllFiles TRUE
+
+Apprendre Unix shell script
+
+
+R
+
+x4 <- sample(1:10, 5, replace=T)ljdsalKSLDKJ
+
+<<<<<<< HEAD
+AAAAAAAAAAAAAAAAAAAAAAAAAA
+=======
+sdSDFSFDSFD
+>>>>>>> test
