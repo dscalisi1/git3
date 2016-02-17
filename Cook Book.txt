@@ -7,3 +7,5 @@ Apprendre Unix shell script
 R
 
 x4 <- sample(1:10, 5, replace=T)ljdsalKSLDKJ
+
+AAAAAAAAAAAAAAAAAAAAAAAAAA
